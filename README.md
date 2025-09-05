@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my GitHub page.
+- 🌱 I’m currently learning Java, Javascript, and Python.
+- 📫 How to reach me: lam.nguyen1637@gmail.com
 <!--
 **NguyenHLam/NguyenHLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
