@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning Java, Javascript, and Python.
 - 📫 Contact: lam.nguyen1637@gmail.com
 
-## Alô! 👋
-- 🔭 Tôi thực hiện đang thiết kế trang GitHub của mình.
-- 🌱 Tôi đang học Java, Javascript, và Python.
-- 📫 Liên hệ: lam.nguyen1637@gmail.com
-
 <!--
 **NguyenHLam/NguyenHLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
